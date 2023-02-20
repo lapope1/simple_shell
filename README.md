@@ -27,3 +27,15 @@ This contains the names of Authors.
 - string1.c
 - tokenizer.c
 - vars.c
+
+### help_files
+- help_al
+- help_cd
+- help_env
+- help_hel
+- help_hist
+- help_setenv
+- help_unal
+- help_unenv
+- help_unset
+- testfile
